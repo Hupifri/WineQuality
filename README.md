@@ -12,3 +12,7 @@ My first complete data-analytics projects
 
 ### How?
 Using python: Pandas, Scikit learn, Statmodels, Numpy etc.
+
+### Files
+WineQuality.ipynb = the python code for the analytics
+project_data.csv = the used dataset
